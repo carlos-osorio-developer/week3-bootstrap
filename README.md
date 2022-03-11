@@ -1,5 +1,3 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Project Name: Newsweek Clone
 
 ## Week 3 - Collaborative Project [Bootstrap]
@@ -107,7 +105,6 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Thanks to Microverse and their supportive community.
 - Thanks to everyone commiting in this project.
 
 ## 📝 License
